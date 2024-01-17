@@ -1,0 +1,18 @@
+Civitai上模型: https://civitai.com/images/643835
+
+正面
+masterpiece, best quality, highres, lu1, cyborg, multicolored hair, makeup, bare shoulders, black leotard, highleg leotard, (thong:1.1), white jacket, open jacket, belt, shorts, <lora:lucy_(cyberpunk)_v10:0.7>, cowboy shot, planet, moon, earth (planet)
+ <lora:lucy:0.5>
+
+(8k, RAW photo, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37),1girl,cute, looking at viewer,cityscape,night, professional lighting, photon mapping, radiosity, ( ( blue to white Ombre wig:1.2) ), physically-based rendering, ulzzang-6500-v1.1,black hair, wavy hair,
+ <lora:台灣女生模型:0.2> <lora:koreanDollLikeness_v15:0.3>
+
+負面
+EasyNegative, lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, (worst quality:1.2), low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, lowres graffiti, (low quality lowres simple background:1.1), (holding:1.5)
+
+paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, glans,large breasts,
+
+
+
+
+Steps:20   Seed:409135400    Sampling Method:DPM++ 2M Karras
