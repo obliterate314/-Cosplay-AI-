@@ -14,6 +14,8 @@ EasyNegative, lowres, bad anatomy, bad hands, text, error, missing fingers, extr
 
 paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, glans,large breasts,
 
-Steps:20   Seed:409135399    Sampling Method:DPM++ 2M Karras
+Steps:20   Seed:409135399,409135400,409135401,409135402    Sampling Method:DPM++ 2M Karras
+
+
 
 
